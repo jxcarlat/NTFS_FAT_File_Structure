@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T16:29:08.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="AnY6R1oBbiE3mOMT6FOP" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T16:37:59.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="wE2sJZ68ED275MqxGua0" version="15.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-30" value="&lt;span style=&quot;font-size: 18px&quot;&gt;A Directory Table that stores information about files and directories contained in Root.&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="437.5" y="70" width="135" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="b9YMpVK1cU2BV_z4t6fd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b9YMpVK1cU2BV_z4t6fd-32" target="b9YMpVK1cU2BV_z4t6fd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9YMpVK1cU2BV_z4t6fd-32" value="&lt;span style=&quot;font-size: 18px&quot;&gt;This is where the actual file and directory data is stored. The files are allocated in clusters.&amp;nbsp;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="610" width="135" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
