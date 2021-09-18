@@ -1,56 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T17:11:19.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="hyfp0E6IZ0yaEawlOBdZ" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T21:04:37.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="UbhAoNcqn3rsSmvWlKZ3" version="15.2.9" type="github">
   <diagram id="x8MVdCRa3j2uht5mlIad" name="Page-1">
-    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="400" width="810" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--2" value="Boot&lt;br&gt;Sector" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--2" value="Boot&lt;br&gt;Sector" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="20" y="400" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--3" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="400" width="10" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--4" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--4" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="400" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--7" value="Master File Table (MFT)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="400" width="280" height="100" as="geometry" />
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--7" value="Master File Table&lt;br&gt;(MFT)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="140" y="400" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--8" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--8" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="400" width="10" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--9" value="Data Storage" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="400" width="180" height="100" as="geometry" />
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--9" value="Data Storage" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="350" y="400" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--10" value="MFT Mirror" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--10" value="MFT Mirror" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="400" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iA3L0MmO2OmooaJ5bWK--12" target="iA3L0MmO2OmooaJ5bWK--2">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="iA3L0MmO2OmooaJ5bWK--12" target="iA3L0MmO2OmooaJ5bWK--2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;This sector contains the master boot record, BIOS Parameter Block (BPB), and partition info&amp;nbsp;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;This sector contains the master boot record, BIOS Parameter Block (BPB), and partition info&amp;nbsp;&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="610" width="120" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iA3L0MmO2OmooaJ5bWK--14" target="iA3L0MmO2OmooaJ5bWK--7">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iA3L0MmO2OmooaJ5bWK--14" target="iA3L0MmO2OmooaJ5bWK--7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Contains a record of each file and its attributes. This table also contains metadata such as when the file was created.&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="70" width="120" height="250" as="geometry" />
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Contains a record of each file and its attributes. This table also contains metadata such as when the file was created.&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="70" width="120" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iA3L0MmO2OmooaJ5bWK--18" target="iA3L0MmO2OmooaJ5bWK--9">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="iA3L0MmO2OmooaJ5bWK--18" target="iA3L0MmO2OmooaJ5bWK--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;This is where the actual file and directory data is stored.&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="442.5" y="610" width="135" height="250" as="geometry" />
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;This is where the actual file and directory data is stored.&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="620" width="135" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iA3L0MmO2OmooaJ5bWK--20" target="iA3L0MmO2OmooaJ5bWK--10">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iA3L0MmO2OmooaJ5bWK--20" target="iA3L0MmO2OmooaJ5bWK--10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iA3L0MmO2OmooaJ5bWK--20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Copy of the first couple of records in the Master File Table for redundancy. Can be used to recover the MFT if it happens to be lost or corrupted&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Copy of the first couple of records in the Master File Table for redundancy. Can be used to recover the MFT if it happens to be lost or corrupted&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="642.5" y="40" width="135" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iA3L0MmO2OmooaJ5bWK--3" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="400" width="10" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
