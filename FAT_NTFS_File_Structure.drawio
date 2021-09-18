@@ -1,32 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T15:48:52.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="tNid_Mny0qLe1kIpP3L8" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T15:54:46.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="fGyFqw3YbIeZ2FC783Uo" version="15.2.9" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="750" height="100" as="geometry" />
+          <mxGeometry x="10" y="200" width="810" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-7" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="10" height="100" as="geometry" />
+          <mxGeometry x="170" y="200" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-9" value="Boot&lt;br&gt;Sector" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="80" height="100" as="geometry" />
+          <mxGeometry x="20" y="200" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-10" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="200" width="10" height="100" as="geometry" />
+          <mxGeometry x="414" y="200" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-11" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="200" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-12" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="10" height="100" as="geometry" />
+          <mxGeometry x="280" y="200" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-13" value="FAT 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="200" width="110" height="100" as="geometry" />
+          <mxGeometry x="170" y="200" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b9YMpVK1cU2BV_z4t6fd-14" value="FAT 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="200" width="130" height="100" as="geometry" />
+          <mxGeometry x="290" y="200" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b9YMpVK1cU2BV_z4t6fd-15" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b9YMpVK1cU2BV_z4t6fd-16" value="&lt;span style=&quot;font-size: 12px ; font-weight: 400&quot;&gt;Optional&lt;br&gt;Reserved&lt;br&gt;Section&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
